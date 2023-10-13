@@ -37,21 +37,21 @@ You are required to model the price of houses with the available independent var
 - Ridge : Train :90.6% Test :86.9%
 - Lasso : Train :91.8% Test :87.0%
 
-- The most significant variables which help in increase in Sales in Ridge are -:
-- ('SaleCondition_Partial', 0.135)
-- ('SaleCondition_Normal', 0.094)
-- ('GarageFinish_Family', 0.09)
-- ('SaleCondition_Alloca', 0.087)
-- (GarageFinish_Unknown', 0.084)
-- ('SaleCondition_AdjLand', 0.084)
+> The most significant variables which help in increase in Sales in Ridge are -:
+('SaleCondition_Partial', 0.135)
+('SaleCondition_Normal', 0.094)
+ ('GarageFinish_Family', 0.09)
+('SaleCondition_Alloca', 0.087)
+ (GarageFinish_Unknown', 0.084)
+ ('SaleCondition_AdjLand', 0.084)
 
-- The most significant variables which help in increase in Sales in Lasso are -:
-- ('SaleCondition_Partial', 0.31)
-- ('SaleCondition_Normal', 0.254)
-- ('GarageFinish_Family', 0.248)
-- ('SaleCondition_Alloca', 0.221)
-- ('SaleCondition_AdjLand', 0.221)
-- (GarageFinish_Unknown', 0.171)
+> The most significant variables which help in increase in Sales in Lasso are -:
+('SaleCondition_Partial', 0.31)
+ ('SaleCondition_Normal', 0.254)
+('GarageFinish_Family', 0.248)
+ ('SaleCondition_Alloca', 0.221)
+ ('SaleCondition_AdjLand', 0.221)
+(GarageFinish_Unknown', 0.171)
 
 - So in the concept of regulariztion we need model that can find the genereal pattern in data and they should work well in unseen    data so we use penality in the regression model -: 
 - I used the best score for aplha in Ridge Regression - : 10
