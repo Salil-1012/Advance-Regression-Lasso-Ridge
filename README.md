@@ -69,7 +69,7 @@ You are required to model the price of houses with the available independent var
 - statsmodels -version 0.14.0
 
 
-## Contact (GitHub)
+## Contact
 Created by: 
 - [GitHub -: Salil Chandan](https://github.com/Salil-1012) 
 
