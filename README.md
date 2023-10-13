@@ -72,10 +72,10 @@ You are required to model the price of houses with the available independent var
 
 ## Contact (GitHub)
 Created by: 
-- [Salil Chandan](https://github.com/Salil-1012) 
+- [GitHub -: Salil Chandan](https://github.com/Salil-1012) 
 
 ## Connect with me on LinkedIn:-
-- [Salil Chandan](https://www.linkedin.com/in/salil-chandan)
+- [Linkdin -: Salil Chandan](https://www.linkedin.com/in/salil-chandan)
 
 
 <!-- Optional -->
